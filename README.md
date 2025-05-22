@@ -8,12 +8,12 @@ This repository contains MATLAB simulations and experimental studies of various 
 
 | Experiment                    | Folder       | Report (PDF)              |
 |------------------------------|--------------|---------------------------|
-| Double Sideband Amplitude Modulation (DSB-AM) | `DSBAM`     | [DSBAM_Report.pdf](./Papers/DSBAM_Report.pdf)     |
-| Double Sideband Suppressed Carrier (DSBSC)    | `DSBSC`      | [DSBSC_Report.pdf](./Papers/DSBSC_Report.pdf)       |
-| Frequency Modulation (FM)                     | `FM`         | [FM_Report.pdf](./Papers/FM_Report.pdf)             |
-| Phase Modulation (PM)                         | `PM`         | [PM_Report.pdf](./Papers/PM_Report.pdf)             |
-| Pulse Amplitude Modulation (PAM)              | `PAM`        | [PAM_Report.pdf](./Papers/PAM_Report.pdf)           |
-| Pulse Width Modulation (PWM)                   | `PWM`        | [PWM_Report.pdf](./Papers/PWM_Report.pdf)           |
+| Double Sideband Amplitude Modulation (DSB-AM) | `DSBAM`     | [DSBAM_Report.pdf](./DSBAM/DSBAM_Report.pdf)     |
+| Double Sideband Suppressed Carrier (DSBSC)    | `DSBSC`      | [DSBSC_Report.pdf](./DSBSC/DSBSC_Report.pdf)       |
+| Frequency Modulation (FM)                     | `FM`         | [FM_Report.pdf](./FM/FM_Report.pdf)             |
+| Phase Modulation (PM)                         | `PM`         | [PM_Report.pdf](./PM/PM_Report.pdf)             |
+| Pulse Amplitude Modulation (PAM)              | `PAM`        | [PAM_Report.pdf](./PAM/PAM_Report.pdf)           |
+| Pulse Width Modulation (PWM)                   | `PWM`        | [PWM_Report.pdf](./PWM/PWM_Report.pdf)           |
 
 ---
 
