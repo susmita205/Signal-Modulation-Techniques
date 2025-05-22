@@ -29,8 +29,4 @@ This repository contains MATLAB simulations and experimental studies of various 
 
 ---
 
-## How to Use
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/susmita205/Signal-Modulation-Techniques.git
